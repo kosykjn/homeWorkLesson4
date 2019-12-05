@@ -6,7 +6,7 @@ namespace homeWorkLesson4_1
     {
         static void Main(string[] args)
         {
-            #region for
+            #region for loop
 
             for (int i = 1; i <= 5; i++)
             {
@@ -15,7 +15,7 @@ namespace homeWorkLesson4_1
 
             #endregion
 
-            #region while
+            #region while loop
 
             int number1 = 0;
             
@@ -28,7 +28,7 @@ namespace homeWorkLesson4_1
 
             #endregion
 
-            #region do while
+            #region do while loop
 
             int number2 = 0;
 
